@@ -1,0 +1,14 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "Basit bir Node.js uygulaması",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "http": "0.0.1-security"
+  },
+  "author": "Kullanıcı Adı",
+  "license": "ISC"
+}
